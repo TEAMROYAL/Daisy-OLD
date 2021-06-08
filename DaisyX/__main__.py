@@ -63,7 +63,7 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [A.S.T.E.R.O.I.D](https://telegra.ph/file/dfe24ab2a18886a0709b1.png)
+Hello there, I'm [ĐÃŘK VĒÑØM](https://telegra.ph/file/647d8c3b4296711fb6119.jpg)
 
 This Bot is Made By Shivansh Rajput
 
@@ -79,14 +79,14 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="💫 Add Asteroid to your group 💫", url="t.me/Asteroid_support?startgroup=true"
+            text="💫 Add ĐÃŘK VĒÑØM to your group 💫", url="t.me/venom_userbot_support?startgroup=true"
         ),
     ],
 ]
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/dfe24ab2a18886a0709b1.png)
+*Main Commands :* [🤖](https://telegra.ph/file/647d8c3b4296711fb6119.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
